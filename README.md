@@ -8,9 +8,9 @@
 This project is a study for data scientists in the Saudi market, which was carried out on 2,048 employees in data science or one of the fields such as data analysis
 I answered many questions, including:
 <br>1- What are the degrees that data scientists have in the Saudi market?
-2- What are the academic majors for data clients?
-3- What are the most used programming languages?
-4- What are the soft skills that data science possesses in the Saudi market?
+<br>2- What are the academic majors for data clients?
+<br>3- What are the most used programming languages?
+<br>4- What are the soft skills that data science possesses in the Saudi market?
 
 ## About the dataset
 The dataset is collected and scrapped from [linkedin website](https://www.linkedin.com).
