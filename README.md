@@ -5,7 +5,7 @@
 
 
 # Introduction
-This project is a study for data scientists in the Saudi market, which was carried out on 2,048 employees in data science or one of the fields such as data analysis
+This project is a study for data scientists in the Saudi market, which was carried out on 5,981 employees in data science or one of the fields such as data analysis
 I answered many questions, including:
 <br>1- What are the degrees that data scientists have in the Saudi market?
 <br>2- What are the academic majors for data clients?
@@ -20,8 +20,8 @@ The dataset is collected and scrapped from [linkedin website](https://www.linked
 ### Dataset Description: 
 
 The data set represents different job titles such as data scientists and data analysts
-   - Number of features:    36 features/Columns
-   - Number of rows:        2046 rows
+   - Number of features:    15 features/Columns
+   - Number of rows:        5981 rows
 
 
     
