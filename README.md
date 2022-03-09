@@ -26,6 +26,7 @@ The data set represents different job titles such as data scientists and data an
 
     
 ### The main technologies and libraries that will be used are: 
+    - Visual Studio Code
     - Python 
     - Jupyter Notebook
     - github
